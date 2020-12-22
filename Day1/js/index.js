@@ -15,4 +15,6 @@ function reset() {
   document.getElementById("display").value = "";
   document.getElementById("result").value = "";
 }
-
+function tan(all) {
+  all.value = Math.tan((all.value * 3.141592) / 180);
+}

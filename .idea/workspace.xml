@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="94aef391-ed07-48cd-98d7-498d5f28060b" name="Default Changelist" comment="" />
+    <list default="true" id="94aef391-ed07-48cd-98d7-498d5f28060b" name="Default Changelist" comment="initial commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Day1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day1/js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Day1/js/index.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +18,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
     <exe-path />
@@ -21,6 +28,7 @@
     <auto-save>true</auto-save>
   </component>
   <component name="ProjectId" id="1lx9skbXYDEkYOoummSWxzLTipc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -48,17 +56,39 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1608528083718</updated>
-      <workItem from="1608528084857" duration="3729000" />
+      <workItem from="1608528084857" duration="4525000" />
+      <workItem from="1608558082172" duration="5000" />
+      <workItem from="1608639043639" duration="342000" />
     </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1608532838010</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608532838010</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="453" y="259" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1608530753142">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="453" y="259" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1608530753142" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1608532847892">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1608532847892" />
+    <state x="542" y="351" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1608532815957">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="542" y="351" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1440.900@0.0.1440.900" timestamp="1608532815957" />
   </component>
 </project>
