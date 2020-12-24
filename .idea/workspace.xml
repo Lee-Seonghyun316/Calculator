@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94aef391-ed07-48cd-98d7-498d5f28060b" name="Default Changelist" comment="[add] tan">
+    <list default="true" id="94aef391-ed07-48cd-98d7-498d5f28060b" name="Default Changelist" comment="[add] sin,cos,tan">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Day1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Day1/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Day1/js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Day1/js/index.js" afterDir="false" />
@@ -79,7 +79,7 @@
       <updated>1608528083718</updated>
       <workItem from="1608528084857" duration="4525000" />
       <workItem from="1608558082172" duration="5000" />
-      <workItem from="1608639043639" duration="1433000" />
+      <workItem from="1608639043639" duration="2483000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1608532838010</created>
@@ -95,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608639503933</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="[add] sin,cos,tan">
+      <created>1608731357025</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1608731357025</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -115,17 +122,19 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
     <MESSAGE value="[add] tan" />
-    <option name="LAST_COMMIT_MESSAGE" value="[add] tan" />
+    <MESSAGE value="[add] sin,cos,tan,pow" />
+    <MESSAGE value="[add] sin,cos,tan" />
+    <option name="LAST_COMMIT_MESSAGE" value="[add] sin,cos,tan" />
   </component>
   <component name="WindowStateProjectService">
     <state x="453" y="259" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1608530753142">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="453" y="259" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1608530753142" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1608639508707">
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1608731362935">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1608639508707" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1608731362935" />
     <state x="542" y="351" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1608532815957">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
